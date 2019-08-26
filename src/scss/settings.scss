@@ -1,0 +1,10 @@
+$font-color: #000;
+
+h1{
+    color: $font-color;
+    background-color: green;
+
+    &:hover{
+        cursor: pointer;
+    }
+}
